@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711783159 source:c:\lab 7 realization\main.c
+	<stdio.h>
+
+1711783159 source:c:\lab 7 realization\1.c
+	<stdio.h>
+	<assert.h>
+
